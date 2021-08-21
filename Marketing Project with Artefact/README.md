@@ -30,7 +30,7 @@ Presentation Slides.pdf -----------------------------> The slides for presentati
 
 If you want to view the project, I HIGHLY recommend you viewing in the following order:
 
-1. If you just want to know what I did, first view the Presentation Slides.pdf and then view the Project Code.pdf if you want detailed information.
+1. If you just want to know what I did, view the Presentation Slides.pdf.
 2. If you want to play with the code, after finish viewing the Presentation Slides.pdf, open (Artefact)Mian Zhang - CS7290 Project Code.ipynb and read data from 'df_transformed.csv' and 'data_2.csv' and define them to be 'df_transformed' and 'data2' respectively, rather than running the code from the top and creating these two dataframes after data cleaning, feature engineering and data transformation. Again, I cannot guarantee that using the fake data can obtain the same result, because some parts of Artefact's model is building on the dataset. 
 
 ## Setup
