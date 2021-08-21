@@ -47,6 +47,8 @@ Task 3: Artefact staff has already built a hierarchical bayesian model using sel
 
 Besides, for interaction priors, if we pick those with | mean | > 0.3 and std < 0.6, then we will get certian insights from some correlations: Launch more promotion activities, especially on holidays. Don’t make the price too high.
 
+Last but not the least, for ppc chart problem that was raised by Professor Ness during my presentation, I carefully checked the official documents and tutorial of PyMC3 and was not able to find a more appropriate function to do the posterior predictive check visualization. I've also mentioned this problem in one of the stand-ups, but I was not able to get any better ideas about it. So I remain the ppc plot here to be the same as the previous edition, which can be a future work for me and Artefact people.
+
 ## Acknowledgements
 
 First of all, thanks to Professor Ness for teaching and guidance for the whole semester, also for the opportunity to work with Artefact. Bayesian Modeling is brand new topic for me and now I find it very interesting and meaningful. Second, thanks to Aleksandra, Sarath and Deepak from Artefact. The support and guidance that they gave me for the past two months really helped me a lot, and I hope my work could at least help to push the project go further. Third, thanks to Sameer, Ruthvik and Biswaroop for the help during the past two months. It was really interesting and beneficial to be your partners.
